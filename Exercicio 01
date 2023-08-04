@@ -1,0 +1,6 @@
+<?php
+$numero1 = 2;
+$numero2 = 7;
+$resultado = $numero1 * $numero2;
+echo "Resultado: $resultado";
+ ?>
