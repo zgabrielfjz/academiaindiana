@@ -1,0 +1,9 @@
+<?php
+$preço = 320;
+$preçoporcentagem = 12;
+$resultado = ($preço / $preçoporcentagem) * 100;
+?>
+<?php
+$preço = 2666.6666666667;
+$preçodivisão = 10;
+echo $preço / $preçodivisão;
