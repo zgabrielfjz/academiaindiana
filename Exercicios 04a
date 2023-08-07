@@ -1,0 +1,13 @@
+<?php
+$sal1 = 5000;
+$sal2 = 2500;
+$resultado = ($sal1 / $sal2) * 100;
+var_dump($resultado);
+echo $resultado;
+$minimo = 2500;
+$maximo = 5000;
+$numero = $minimo + 200;
+while ( $numero < $maximo) {
+ echo $numero;
+ $numero++;
+}
